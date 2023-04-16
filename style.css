@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital@1&display=swap');
+
+* {
+    font-family: 'Prompt', sans-serif;
+}
+
+body {
+    background-color: whitesmoke;
+    margin: 0px;
+}
+
+h1 {
+    color: lightcoral;
+}
+
+p {
+    color: lightcoral;
+}
+
+.tight {
+    margin: 3px;
+}
+
+.small {
+    font-size: 10px;
+}
+
+a {
+    color: lightcoral;
+}
+
+button {
+    background-color: lightcoral;
+    border: 0;
+    border-radius: 5px;
+    width: 25%;
+    height: 50px;
+    margin-top: 25px;
+    color: whitesmoke;
+    font-size: 20px;
+}
